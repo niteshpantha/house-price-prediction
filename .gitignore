@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw datasets, large CSVs, Kaggle downloads)
+data/raw/
+*.csv
+*.xlsx
+
+# Results (generated files, submissions, models)
+results/
+*.pkl
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
